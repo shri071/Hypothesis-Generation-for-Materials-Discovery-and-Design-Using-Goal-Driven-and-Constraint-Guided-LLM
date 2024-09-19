@@ -6,7 +6,7 @@ from openai import OpenAI
 from typing import List
 import re
 
-client = OpenAI(api_key='sk-svcacct-oEyJONnuUBgTc-g35W18i1Jxu7WOHPQz_TzWRjaTS9bKqv-CT-KEjwFzqwIZhhMYH5fT3BlbkFJ43pHN8gA85m8CdI3uNKaqOuiOM_yXF-0YaCqvJGDdaX0HT6aH86HmZ4GbBnWkwcLi8QA')
+client = OpenAI()
 
 #=======================================================================================Prompt Construction Functions=======================================================================================
 
