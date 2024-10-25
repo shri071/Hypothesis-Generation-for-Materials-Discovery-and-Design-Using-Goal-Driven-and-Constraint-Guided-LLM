@@ -1,1 +1,1 @@
-# Goal oriented materials discovery and design hypotheses generation with LLM based Agents
+# Hypothesis Generation for Materials Discovery and Design Using Goal-Driven and Constraint-Guided LLM Agents
