@@ -8,4 +8,11 @@ by the Summarizer (GPT-4o); if unanimous agreement is not reached, the hypothese
 are fed back to the Hypotheses Generator for refinement and are re-evaluated by the critics. Once approved,
 the final hypotheses proceed to the Evaluation Agent (OpenAI-o1-preview) for scoring
 
-Description of ACCELMAT Framework.
+Description of ACCELMAT Framework:
+
+Hypotheses Generation Agent (HGA):
+Given the Goal Statement and Constraints, the
+HGA generates multiple hypotheses, accom-
+panied by reasoning for each. This agent is
+powered by GPT-4o. The prompts used for
+HGA are provided in Appendix C.3.
