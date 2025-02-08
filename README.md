@@ -10,9 +10,5 @@ the final hypotheses proceed to the Evaluation Agent (OpenAI-o1-preview) for sco
 
 Description of ACCELMAT Framework:
 
-Hypotheses Generation Agent (HGA):
-Given the Goal Statement and Constraints, the
-HGA generates multiple hypotheses, accom-
-panied by reasoning for each. This agent is
-powered by GPT-4o. The prompts used for
-HGA are provided in Appendix C.3.
+Hypotheses Generation Agent (HGA): Given the Goal Statement and Constraints, the HGA generates multiple hypotheses, accompanied by reasoning for each. This agent is
+powered by GPT-4o. The prompts used for HGA are provided in Appendix C.3.
