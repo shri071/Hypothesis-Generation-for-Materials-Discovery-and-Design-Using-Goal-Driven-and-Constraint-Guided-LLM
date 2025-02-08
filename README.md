@@ -20,3 +20,5 @@ constraints. Each critic gives detailed feed-back to guide subsequent hypothesis
 
 3). Summarizer Agent (SA): The Summarizer Agent consolidates and organizes the feedback from all three CAs into a structured format. It then provides this comprehensive feed-
 back to the HGA to guide the refinement process. We use GPT-4o as the SA.
+
+4). Evaluation Agent (EA): The Evaluation Agent is used to evaluate the closeness and quality of the generated hypotheses. We use OpenAI-o1-preview as our evaluation agent.
